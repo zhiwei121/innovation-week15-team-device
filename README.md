@@ -42,11 +42,13 @@
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | 组长 | 请填写姓名 | 创建仓库、维护 `main`、审核 PR、组织真机运行 | ... |
-| 组员 A | 请填写姓名 | 修改 `groupName`、`projectTitle`、`projectSlogan` | ... |
-| 组员 B | 请填写姓名 | 补全 `members` 中的小组成员姓名与分工 | ... |
-| 组员 C | 请填写姓名 | 补充 `realDeviceChecks` 中的真机检查项 | ... |
-| 组员 D | 请填写姓名 | 补充 `evidenceRules`，提交真机照片说明 | ... |
-
+| 组员 A | 刘炎松 | 修改 `groupName`、`projectTitle`、`projectSlogan` | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/2) |
+| 组员 A | 刘炎松 | 补全 `members` 中的小组成员姓名与分工 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/2) |
+| 组员 B | 王梓桓 | 补充 `realDeviceChecks` 中的真机检查项 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/3) |
+| 组员 B | 王梓桓 | 补充 `evidenceRules`，提交真机照片说明 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/3) |
+| 组员 C | 李学海 | 能运⾏ Flutter，连接 Android ⼿机 |
+| 组员 C | 李学海 | 真实 Android ⼿机，⽤于运⾏ App |
+| 拍照⼿机 |      | 第⼆部⼿机，⽤于拍摄真机证据 |
 ## Android 真机运行
 
 - 手机型号：...
@@ -57,13 +59,13 @@
 
 ## 小组分工建议
 
-| 角色 | 修改位置 | 任务 |
-| --- | --- | --- |
-| 组长 | GitHub 仓库 | 创建仓库、维护 `main`、审核 PR、组织真机运行 |
-| 组员 A | `lib/main.dart` | 修改 `groupName`、`projectTitle`、`projectSlogan`（已完成） |
-| 组员 B | `lib/main.dart` | 补全 `members` 中的小组成员姓名与分工（已完成） |
-| 组员 C | `lib/main.dart` | 补充 `realDeviceChecks` 中的真机检查项 |
-| 组员 D | `lib/main.dart` 和 `README.md` | 补充 `evidenceRules`，提交真机照片说明 |
+| 角色 | 姓名 | 修改位置 | 任务 |
+| --- | --- | --- | --- |
+| 组长 | 请填写姓名 | GitHub 仓库 | 创建仓库、维护 `main`、审核 PR、组织真机运行 |
+| 组员 A | 刘炎松 | `lib/main.dart` | 修改 `groupName`、`projectTitle`、`projectSlogan`；补全 `members` 中的小组成员姓名与分工 |
+| 组员 B | 王梓桓 | `lib/main.dart` | 补充 `realDeviceChecks` 中的真机检查项；补充 `evidenceRules`，提交真机照片说明 |
+| 组员 C | 李学海 | `lib/main.dart` | 运行 Flutter，连接 Android 手机进行真机测试 |
+| 拍照手机 | - | - | 第二部手机用于拍摄真机证据 |
 
 ## 运行命令
 
