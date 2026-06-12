@@ -65,7 +65,7 @@
 | 组员 A | 刘炎松 | `lib/main.dart` | 修改 `groupName`、`projectTitle`、`projectSlogan`；补全 `members` 中的小组成员姓名与分工 |
 | 组员 B | 王梓桓 | `lib/main.dart` | 补充 `realDeviceChecks` 中的真机检查项；补充 `evidenceRules`，提交真机照片说明 |
 | 组员 C | 李学海 | `lib/main.dart` | 运行 Flutter，连接 Android 手机进行真机测试 |
-| 拍照手机 | - | - | 第二部手机用于拍摄真机证据 |
+| 拍照手机 | 唐志伟 | `images` | 第二部手机用于拍摄真机证据 |
 
 ## 运行命令
 
