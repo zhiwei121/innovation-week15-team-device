@@ -36,6 +36,25 @@
 
 组员不要直接 push 到组长仓库的 `main` 分支。
 
+## 小组成员
+
+| 角色 | 姓名 | 任务 | PR 链接 |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| 组长 | 请填写姓名 | 创建仓库、维护 `main`、审核 PR、组织真机运行 | ... |
+| 组员 A | 请填写姓名 | 修改 `groupName`、`projectTitle`、`projectSlogan` | ... |
+| 组员 B | 请填写姓名 | 补全 `members` 中的小组成员姓名与分工 | ... |
+| 组员 C | 请填写姓名 | 补充 `realDeviceChecks` 中的真机检查项 | ... |
+| 组员 D | 请填写姓名 | 补充 `evidenceRules`，提交真机照片说明 | ... |
+
+## Android 真机运行
+
+- 手机型号：...
+- 运行方式：flutter run
+- 运行日期：2026-06-12
+
+![Android 真机运行照片](images/android-real-device.jpg)
+
 ## 小组分工建议
 
 | 角色 | 修改位置 | 任务 |

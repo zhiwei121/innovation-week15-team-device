@@ -49,6 +49,9 @@ class TeamDeviceHomePage extends StatelessWidget {
     '照片中要看到手持真实 Android 手机和本应用页面',
     'README 中要包含 GitHub 协作说明、PR 合并记录和真机照片',
     '提交前检查照片不包含私人聊天、手机号、定位等隐私信息',
+    'README 中需包含 PR 链接表，记录每位组员的贡献',
+    '记录运行设备型号（如：Xiaomi 13、Huawei Mate 60 Pro）',
+    '记录拍照时间，确保照片时效性',
   ];
 
   @override
