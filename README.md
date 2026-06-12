@@ -48,7 +48,7 @@
 | 组员 B | 王梓桓 | 补充 `evidenceRules`，提交真机照片说明 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/3) |
 | 组员 C | 李学海 | 能运⾏ Flutter，连接 Android ⼿机 |
 | 组员 C | 李学海 | 真实 Android ⼿机，⽤于运⾏ App |
-| 拍照⼿机 |      | 第⼆部⼿机，⽤于拍摄真机证据 |
+| 拍照⼿机 | 唐志伟 | 第⼆部⼿机，⽤于拍摄真机证据 |
 ## Android 真机运行
 
 - 手机型号：...
